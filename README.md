@@ -18,3 +18,5 @@ En este proyecto hemos diseñado una base de datos, desde la redacción de los r
  ## Scripts
  - [Creación de tablas](scripts/creacion.sql)
  - [Carga de datos](scripts/carga.sql)
+ 
+ (Pruebas y triggers en [Pruebas](pruebas/) )
