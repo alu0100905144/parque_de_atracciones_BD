@@ -14,3 +14,7 @@ En este proyecto hemos diseñado una base de datos, desde la redacción de los r
  - [Modelo Lógico Objeto-Relacional (UML)](https://docs.google.com/document/d/10m8Uq_WBjHex8lwc3YKSEl9oTsIbF4je5Dlq11tK0aY/edit?usp=sharing) 
  - [Generación de Código (Scripts)](https://docs.google.com/document/d/11QLOAPZEB-yEqcBHIQ9teYl--jfqIbk7Ev96bpGMV4E/edit?usp=sharing) 
  - [Carga de datos](https://docs.google.com/document/d/1i3Q7hAxdPhIFL3PalOEJOTGvd5kHCW9NwzXXDbJtdDI/edit?usp=sharing) 
+ 
+ ## Scripts
+ - [Creación de tablas](scripts/creacion.sql)
+ - [Carga de datos](scripts/carga.sql)
